@@ -28,7 +28,7 @@ window.addEventListener("scroll", function () {
 });
 
 //slider by clicking the numbers
-var photes = ["./media/page1.jpg","./media/page2.jpg","./media/page3.jpg","./media/page4.jpg","./media/page5.jpg"]
+var photes = ["./media/page1.jpg","./media/hourofcode1.jpg","./media/page3.jpg"]
 
 var pgs=document.querySelectorAll(".page")
 
@@ -77,7 +77,7 @@ btn.addEventListener("click", function () {
 //automatic photo changer
 var item = document.getElementById("codephoto");
 
-var items = ["./media/code_ss_1.png", "./media/code_ss_2.png", "./media/code_ss_3.png", "./media/code_ss_4.png"];
+var items = ["./media/code_ss_3.png", "./media/code_ss_4.png"];
 
 let i = 1;
 
