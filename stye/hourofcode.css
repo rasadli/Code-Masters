@@ -1,9 +1,6 @@
 .hourofcode{
     padding: 150px 0px;
-    background-image: url(/media/bg2.jpg);
-    background-attachment: fixed;
-    background-position: center;
-    background-size: cover;
+    background-color: #33353685;
 }
 
 .hourofcodeUp{
@@ -95,7 +92,6 @@
     height: 20px;
     line-height: 20px;
     background-color: #2121211c;
-    /* border: 1.5px solid #ffc800; */
     border-radius: 50%;
     font-size: 13px;
     text-align: center;
